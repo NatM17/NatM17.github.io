@@ -1,0 +1,164 @@
+h2 {
+
+    background-color: #a868fcd5;
+    color: white;
+    font-size: 28px;
+    font-style: oblique;
+}
+
+h1 {
+
+    background-color: #a868fcd5;
+    color: white;
+}
+
+
+
+body {
+
+    background-color: white;
+    letter-spacing: 0.2px;
+    font-size: 15px;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 20px;
+    font-style: normal;
+}
+
+
+
+header {
+
+    font-size: 35px;
+    text-align: center;
+    word-spacing: 20px;
+    font-style: normal;
+
+}
+
+nav {
+
+    font-size: 13px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+
+}
+
+#lista {
+
+
+    font-style: italic;
+    line-height: 25px;
+    text-indent: 15px;
+
+}
+
+.rose {
+
+    background-color: #a868fc36;
+}
+
+footer {
+
+    text-align: center;
+    padding-bottom: 70px;
+
+}
+
+#pie {
+
+    font-size: 50px;
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+    line-height: 70px;
+}
+
+.rosado {
+
+    background-color: #a868fc0e;
+}
+
+ul {
+
+    list-style: circle;
+    font-style: oblique;
+    text-decoration: underline;
+    text-align: left;
+
+}
+
+main {
+
+    text-indent: 20px;
+}
+
+.centro {
+
+    text-align: center;
+}
+
+.datos {
+
+    font-weight: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#datos-per {
+
+    text-align: center;
+    font-size: 35px;
+    word-spacing: 7px;
+    font-style: normal;
+
+}
+
+table {
+
+    background-color: rgba(129, 13, 175, 0.164);
+    text-align: center;
+    color: purple;
+    font-weight: bolder;
+}
+
+th {
+
+    color: black;
+    background-color: #c668fc6b;
+    padding: 15px;
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+
+#formulario {
+
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    text-align: left;
+    padding: 70px;
+    background-color: #a868fc70 ;
+    color: rgba(164, 19, 231, 0.719);
+}
+
+input {
+
+    color: rgb(128, 0, 128);
+    font-size: 15px;
+    font-style: italic;
+}
+
+textarea { 
+
+    color: purple;
+    font-size: 15px;
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 1.5px;
+    
+}
+
+/* Dejo esta nota porque no sé si es obligatorio, y borré las que había hecho en la práctica pasada xd*/
